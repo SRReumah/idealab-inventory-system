@@ -1,4 +1,4 @@
-# IDEALab Inventory Management System
+# Inventory Management System
 
 A simple web-based application designed to replace the manual component borrowing register at IDEALab.
 
